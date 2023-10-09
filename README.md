@@ -2,7 +2,7 @@
 control system of rover.
 
 MCU  
-*stm32
+*stm32f411ceu6
 ground and vcc should never be swapped
 dont power vbat with  other(stlink or serial monitor port) {only vbat}
 analog pins if they are used as digital pins it gives 0 or 255 
