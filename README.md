@@ -21,3 +21,4 @@ crystal oscillator are essential for generating clock signal in microcontrollers
 when ac voltage of particular frequency is applied the piezoelectric material oscillates with same frequncy it is 
 inverse piezo electric effect.
 
+# stm32 family
