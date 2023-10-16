@@ -22,3 +22,4 @@ when ac voltage of particular frequency is applied the piezoelectric material os
 inverse piezo electric effect.
 
 # stm32 family
+## blackpill
