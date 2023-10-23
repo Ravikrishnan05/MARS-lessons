@@ -17,9 +17,14 @@ electrical signals to add memory.
 The SRAM is volatile in nature that means the data stored in it gets all wiped out once the power supply is cut.
 //crystal oscillator
 It has very high quality factor.
-crystal oscillator are essential for generating clock signal in microcontrollers
+crystal oscillator are essential for generating clock signal in microcontroller
 when ac voltage of particular frequency is applied the piezoelectric material oscillates with same frequncy it is 
 inverse piezo electric effect.
+//# Jetson AGX Orin Developer Kit
 
-# stm32 family
-## blackpill
+//# stm32 family
+//## blackpill
+//procedure for documentation
+what ever they have asked just copy paste it and start answer the the questons
+//go to chapter 3 
+//extract requirement from chapter 3
