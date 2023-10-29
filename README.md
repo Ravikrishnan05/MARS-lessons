@@ -26,3 +26,11 @@ inverse piezo electric effect.
 //## blackpill
 
 PID Controller 
+open loop system ![Screenshot 2023-10-29 193717](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/a5a69193-50e9-428f-8c78-0fe3d67c6f60)
+speed depends on accelerator position 
+problem with open loop system :
+*if we are going uphill car slows down even if accelerator is in same position 
+*in down hill car is goin to speed up so we need to let off the gas pedal in order to maintain the same speed.
+this thing cant be done with open loop system.
+closed loop system ![Screenshot 2023-10-29 193126](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/abef884d-c792-48fc-acf1-601280e9efaf)
+
