@@ -34,3 +34,7 @@ problem with open loop system :
 this thing cant be done with open loop system.
 closed loop system ![Screenshot 2023-10-29 193126](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/abef884d-c792-48fc-acf1-601280e9efaf)
 
+motor driver lm298n
+esp32
+pid 
+power
