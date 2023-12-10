@@ -1,7 +1,7 @@
 # MARS-lessons
 control system of rover.
 
-MCU  
+## MCU  
 *stm32f411ceu6
 ground and vcc should never be swapped
 dont power vbat with  other(stlink or serial monitor port) {only vbat}
@@ -22,10 +22,22 @@ when ac voltage of particular frequency is applied the piezoelectric material os
 inverse piezo electric effect.
 //# Jetson AGX Orin Developer Kit
 
-//# stm32 family
+ stm32 family
 //## blackpill
 
-PID Controller 
+
+GPIO
+GPIO pin is customizable and can be controlled by the software.
+Pin Mode:
+~ input or output
+~ analog
+~ alternate function (AF)
+Naming GPIO pins
+PA7 -Port A,pin 7
+PE15 -Port E,pin 15
+
+
+## PID Controller 
 open loop system ![Screenshot 2023-10-29 193717](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/a5a69193-50e9-428f-8c78-0fe3d67c6f60)
 speed depends on accelerator position 
 problem with open loop system :
