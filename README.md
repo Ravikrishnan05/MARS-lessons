@@ -51,6 +51,12 @@ esp32
 pid 
 power
 
-## platform i/o
+## BMS
+In general, the BMS does the following tasks:
+
+* Detects unsafe operating conditions and ensures the safety of the host application and its user.
+* Protects the cells of the battery from abuse.
+* Enhances the life of the battery.
+* Maintains the battery in a state which can fulfill the host application’s requirements
 
 
