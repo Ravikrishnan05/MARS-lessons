@@ -59,4 +59,25 @@ In general, the BMS does the following tasks:
 * Enhances the life of the battery.
 * Maintains the battery in a state which can fulfill the host application’s requirements
 
+## TB6600 stepper motor driver
+![TB6600-Stepper-Driver-Module](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/1bb58911-1d24-4287-b037-cc90a6b2d6fd)
+These modules have several safety functions as follows:
 
+Overcurrent protection
+under-voltage shutdown
+overheating protection
+
+High Voltage  
+
+VCC: Motor power supply – 9-42V for 4A type 
+GND: Ground
+A+: Positive pin of coil 1
+A-: Negative pin of coil 1
+B+: Positive pin of coil 2
+B-: Negative pin of coil 2
+Signal  
+
+PUL(CLK): Pins for controlling rotation steps
+DIR(CW): Pins for controlling rotation steps
+ENA: Enable the driver pin
+5V: Voltage – 5V
