@@ -81,3 +81,12 @@ PUL(CLK): Pins for controlling rotation steps
 DIR(CW): Pins for controlling rotation steps
 ENA: Enable the driver pin
 5V: Voltage – 5V
+## OOPS
+### Names space
+Namespace provide the space where we can define or declare identifier i.e. variable,  method, classes.
+namespace  namespace_name 
+{
+    // code declarations i.e. variable  (int a;)
+    method (void add();)
+    classes ( class student{};)
+}
