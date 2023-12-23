@@ -90,3 +90,10 @@ namespace  namespace_name
     method (void add();)
     classes ( class student{};)
 }
+## Linux commands
+
+ls -used to identify the files and directories in the working directory
+The pwd command is mostly used to print the current working directory on your terminal
+This mkdir command allows you to create fresh directories in the terminal itself.
+
+mkdir GeeksforGeeks/projects creates directory inside directory 
