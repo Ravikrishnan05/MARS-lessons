@@ -81,6 +81,11 @@ PUL(CLK): Pins for controlling rotation steps
 DIR(CW): Pins for controlling rotation steps
 ENA: Enable the driver pin
 5V: Voltage – 5V
+## ROS
+![image](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/980e282d-7173-45a5-9fe7-622e436134d4)
+
+The rosserial ROS package uses Arduino’s universal asynchronous receiver/transmitter (UART) communication and converts the board to a ROS node that can publish ROS messages and subscribe to messages as well
+
 ## OOPS
 ### Names space
 Namespace provide the space where we can define or declare identifier i.e. variable,  method, classes.
