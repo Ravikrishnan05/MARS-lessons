@@ -83,8 +83,26 @@ ENA: Enable the driver pin
 5V: Voltage – 5V
 ## ROS
 ![image](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/980e282d-7173-45a5-9fe7-622e436134d4)
-
+https://www.youtube.com/watch?v=3A5xH2b5beg&list=PLPdFwncBNrd0mA9uOdKaTossDczzI_EQG&index=3
+https://www.youtube.com/watch?v=9qZUjEsVWts
 The rosserial ROS package uses Arduino’s universal asynchronous receiver/transmitter (UART) communication and converts the board to a ROS node that can publish ROS messages and subscribe to messages as well
+
+Node:
+ $ node really isn't much more than an executable file(either python or c++ script) within a ROS package. 
+ $ ROS nodes use a ROS client library to communicate with other nodes. 
+ $ Nodes can publish or subscribe to a Topic. 
+ $ Nodes can also provide or use a Service.
+Messages:
+$ nodes communicate each other with a message it can be of any datatype
+$ what ever messages you send can be are named 
+Topic:
+to communicate between 2 nodes we need topics 
+A------>TOPIC----->B
+A----->TOPIC----->B1,B2,B3,B4,B4 etc...(there can be many nodes.the nodes which subscribe to topic will get the data)
+A is a PUBLISHER
+B is a subscriber
+
+
 
 ## OOPS
 ### Names space
