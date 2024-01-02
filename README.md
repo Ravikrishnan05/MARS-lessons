@@ -35,6 +35,20 @@ Pin Mode:
 Naming GPIO pins
 PA7 -Port A,pin 7
 PE15 -Port E,pin 15
+## Fuses 
+In general, the fuse should be rated at least 125% of the motor's full-load current (FLA)
+xceeding 225% of the FLA is generally not recommended
+
+Fast-acting fuses: These blow quickly in response to high currents, offering excellent protection against short circuits.
+However, they *might also trip during temporary inrush currents during motor startup, leading to *nuisance tripping.
+
+"*Time-delay fuses: These tolerate short-term overloads better than fast-acting fuses, making them suitable for motors and other applications with expected current surges. They offer a better balance between protection and operational continuity.
+
+Dual-element fuses: These combine a fast-acting and a time-delay element, providing rapid short-circuit protection while allowing for temporary overloads. They're ideal for circuits with sensitive components and high inrush currents.
+
+
+Minimum recommended fuse size: 1.25 * 18.7 Amps ≈ 23.4 Amps
+Maximum recommended fuse size: 2.25 * 18.7 Amps ≈ 42.3 Amps
 
 
 ## PID Controller 
