@@ -50,6 +50,11 @@ Dual-element fuses: These combine a fast-acting and a time-delay element, provid
 Minimum recommended fuse size: 1.25 * 18.7 Amps ≈ 23.4 Amps
 Maximum recommended fuse size: 2.25 * 18.7 Amps ≈ 42.3 Amps
 
+![Screenshot 2024-01-02 214046](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/fd6927b9-2cc8-48e6-99f6-900ec2af3c59)
+![Screenshot 2024-01-02 213828](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/fefc6b70-caef-4fa9-911f-3e1794f88413)
+![Screenshot 2024-01-02 214017](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/b2e7c4e2-fbb1-4da3-bc2f-b42b4df96d73)
+
+Circuit boards with delicate components like microcontrollers, processors, and memory chips: Fast-acting fuses quickly interrupt excessive current before it can damage these sensitive parts
 
 ## PID Controller 
 open loop system ![Screenshot 2023-10-29 193717](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/a5a69193-50e9-428f-8c78-0fe3d67c6f60)
