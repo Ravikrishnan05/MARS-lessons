@@ -47,8 +47,8 @@ However, they *might also trip during temporary inrush currents during motor sta
 Dual-element fuses: These combine a fast-acting and a time-delay element, providing rapid short-circuit protection while allowing for temporary overloads. They're ideal for circuits with sensitive components and high inrush currents.
 
 
-Minimum recommended fuse size: 1.25 * 18.7 Amps ≈ 23.4 Amps
-Maximum recommended fuse size: 2.25 * 18.7 Amps ≈ 42.3 Amps
+Minimum recommended fuse size: 1.25 * 13Amps ≈ 16.25 Amps
+Maximum recommended fuse size: 2.25 * 13 Amps ≈ 29.25 Amps
 
 ![Screenshot 2024-01-02 214046](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/fd6927b9-2cc8-48e6-99f6-900ec2af3c59)
 ![Screenshot 2024-01-02 213828](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/fefc6b70-caef-4fa9-911f-3e1794f88413)
