@@ -122,6 +122,11 @@ A is a PUBLISHER
 B is a subscriber
 
 
+ROSSerial is ROS protocol that allows ROS to communicate through serial ports on a number of devices
+Useful if you want to “host” as ROS node on a microcontroller such as an arduino UNO.
+The ROSSerial package can allow a computer running ROS to communicate with a node on a microcontroller 
+via ROS topics that it can subscribed and published to.
+
 
 ## OOPS
 ### Names space
