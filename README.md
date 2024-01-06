@@ -40,10 +40,10 @@ Step Angle : 1.8 Degree
 Rated Voltage: 2.8VDC
 Rated Current: 1.68Amps
 Wiring Details:
-A+ = Red
-A-  = Blue
-B+ = Green
 B-  = Black
+B+ = Green
+A-  = Blue
+A+ = Red
 ## Fuses 
 In general, the fuse should be rated at least 125% of the motor's full-load current (FLA)
 xceeding 225% of the FLA is generally not recommended
