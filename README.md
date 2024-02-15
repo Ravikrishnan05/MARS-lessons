@@ -156,14 +156,15 @@ mkdir GeeksforGeeks/projects creates directory inside directory
 
 # Driver placement
 
-Driver prefered to keep inside 
+Driver prefered to keep inside.
 Better protection from physical damage.
 if me make a place outside it will add weight to our rover.
 2 motor drivers -expensive.
 placing 1 motor above another in cytron.
 Screwing wire in PCB is always better for a moving system.
 XD connectors are much better.
-XD60-can handle 60 amps continuously
-XD30-can be used for small application
+XD60-can handle 60 amps continuously.
+XD30-can be used for small application.
+JST XH wire 6 wire connector for modularity of stepper motor drivers.
 
 
