@@ -154,5 +154,5 @@ This mkdir command allows you to create fresh directories in the terminal itself
 
 mkdir GeeksforGeeks/projects creates directory inside directory 
 
-# Modes
+# Driver placement
 
