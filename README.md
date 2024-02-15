@@ -162,7 +162,8 @@ if me make a place outside it will add weight to our rover.
 2 motor drivers -expensive.
 placing 1 motor above another in cytron.
 Screwing wire in PCB is always better for a moving system.
-XD connectors are better.
--can handle 60 amps continuously
+XD connectors are much better.
+XD60-can handle 60 amps continuously
+XD30-can be used for small application
 
 
