@@ -167,4 +167,8 @@ XD60-can handle 60 amps continuously.
 XD30-can be used for small application.
 JST XH wire 6 wire connector for modularity of stepper motor drivers.
 
-
+# different Motor drivers
+Dual motor driver
+Operating Voltage: DC 4V to 16V
+Maximum Motor Current: 3A continuous, 5A peak
+https://robu.in/product/cytron-3amp-4v-16v-dual-channel-dc-motor-driver-mdd3a/
