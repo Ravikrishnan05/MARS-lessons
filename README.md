@@ -73,6 +73,22 @@ problem with open loop system :
 *in down hill car is goin to speed up so we need to let off the gas pedal in order to maintain the same speed.
 this thing cant be done with open loop system.
 closed loop system ![Screenshot 2023-10-29 193126](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/abef884d-c792-48fc-acf1-601280e9efaf)
+![image](https://github.com/Ravikrishnan05/MARS-lessons/assets/134152503/3958e439-24f3-492d-8e5d-5a05167c3890)
+Now you can see that each term has a constant in front of it. These are known as the tuning constants, and are the essential design parameters that if chosen properly will allow the controller to output a control signal that will bring the error down to zero
+Proportional controller
+
+### Tuning of PI Controller
+Tuning of a PI controller means adjusting the Kp and Ki term to achieve the optimized controller output by minimizing error and avoid overshooting and oscillation. Their are some rules that follows for tuning a PI controller.
+
+Tuning controller involves adjusting Kp and Ki for optimal system control.
+Start with initial guesses for Kp and Ki.
+Set Ki value to ‘0’
+Gradually increase Kp to achieve a fast response without excessive overshoot.
+Introduce Ki and incrementally raise it to eliminate steady-state error.
+Continuously fine-tune Kp and Ki, considering their impact on overshoot, setting time and steady state error.
+Test the controller under various condition.
+Tuning is an iterative process, and optimal parameters may vary for different systems, requiring practice and experience to achieve stable and effective control.
+
 
 motor driver lm298n
 esp32
