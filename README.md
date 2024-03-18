@@ -80,20 +80,18 @@ Proportional controller
 ### Tuning of PI Controller
 Tuning of a PI controller means adjusting the Kp and Ki term to achieve the optimized controller output by minimizing error and avoid overshooting and oscillation. Their are some rules that follows for tuning a PI controller.
 
-Tuning controller involves adjusting Kp and Ki for optimal system control.
-Start with initial guesses for Kp and Ki.
-Set Ki value to ‘0’
-Gradually increase Kp to achieve a fast response without excessive overshoot.
-Introduce Ki and incrementally raise it to eliminate steady-state error.
-Continuously fine-tune Kp and Ki, considering their impact on overshoot, setting time and steady state error.
-Test the controller under various condition.
-Tuning is an iterative process, and optimal parameters may vary for different systems, requiring practice and experience to achieve stable and effective control.
+1) Tuning controller involves adjusting Kp and Ki for optimal system control.
+2) Start with initial guesses for Kp and Ki.
+3) Set Ki value to ‘0’
+4) Gradually increase Kp to achieve a fast response without excessive overshoot.
+5) Introduce Ki and incrementally raise it to eliminate steady-state error.
+6) Continuously fine-tune Kp and Ki, considering their impact on overshoot, setting time and steady state error.
+7) Test the controller under various condition.
+8) Tuning is an iterative process, and optimal parameters may vary for different systems, 
+requiring practice and experience to achieve stable and effective control.
 
 
-motor driver lm298n
-esp32
-pid 
-power
+
 
 ## BMS
 In general, the BMS does the following tasks:
